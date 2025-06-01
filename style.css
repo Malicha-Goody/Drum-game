@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: black;
+    color: aliceblue;
+}
+
+.starting_drum{
+text-align: center;
+color: aquamarine;
+margin: 50px;
+}
+
+.drumimages {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.writeup{
+text-align: center;
+padding: 80px;
+}
+
+.h3{
+    color: aquamarine;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+.foot{
+    text-align: center;
+    padding: 100px;
+}
